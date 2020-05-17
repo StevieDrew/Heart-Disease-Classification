@@ -1,0 +1,11 @@
+{
+ "argv": [
+  "/Users/stevenmorales/Documents/ML-course/heart_disease_proj/env/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3",
+ "language": "python"
+}
